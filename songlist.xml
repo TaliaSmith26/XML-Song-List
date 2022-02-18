@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<?xml-stylesheet type='text/css' href='songlist.css'?>
+
+
+<songlist> 
+
+	<bandname>East Coast Soul</bandname>
+
+
+	<song1> 
+		<artist>Stevie Wonder - "Signed Sealed Delivered"</artist>
+		<musicgenre>Genre: Soul/Rythm and Blues</musicgenre>
+		<releaseyear>Year Released: 1970</releaseyear>
+	</song1>
+
+	<song2> 
+		<artist>Aretha Franklin - "Respect"</artist>
+		<musicgenre>Genre: Soul/Rythm and Blues</musicgenre>
+		<releaseyear>Year Released: 2002</releaseyear>
+	</song2>
+
+	<song3> 
+		<artist>Michael Jackson - "Black Or White"</artist>
+		<musicgenre>Genre: Pop/Rythm and Blues</musicgenre>
+		<releaseyear>Year Released: 1991</releaseyear>
+	</song3>
+
+	<song4> 
+		<artist>Prince - "Kiss"</artist>
+		<musicgenre>Genre: Pop/Rythm and Blues</musicgenre>
+		<releaseyear>Year Released: 1986</releaseyear>
+	</song4>
+
+	<song5> 
+		<artist>The O' Jays - "Love Train"</artist>
+		<musicgenre>Genre: Disco</musicgenre>
+		<releaseyear>Year Released: 1979</releaseyear>
+	</song5>
+
+	<song6> 
+		<artist>Sylvester - "You Make Me Feel "(Mighty Real)""</artist>
+		<musicgenre>Genre: Disco</musicgenre>
+		<releaseyear>Year Released: 1978</releaseyear>
+	</song6>
+
+	<song7> 
+		<artist>Bob Marley - "Is This Love"</artist>
+		<musicgenre>Genre: Reggae</musicgenre>
+		<releaseyear>Year Released: 1978</releaseyear>
+	</song7>
+
+	<song8> 
+		<artist>Bob Marley - "Jamming"</artist>
+		<musicgenre>Genre: Reggae</musicgenre>
+		<releaseyear>Year Released: 1977</releaseyear>
+	</song8>
+
+	<song9> 
+		<artist>Blondie - "Heart of Glass"</artist>
+		<musicgenre>Genre: Classic Rock</musicgenre>
+		<releaseyear>Year Released: 1978</releaseyear>
+	</song9>
+
+	<song10> 
+		<artist>Fleetwood Mac - "Go Your Own Way"</artist>
+		<musicgenre>Genre: Classic Rock</musicgenre>
+		<releaseyear>Year Released: 1977</releaseyear>
+	</song10>
+
+</songlist>

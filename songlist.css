@@ -1,0 +1,50 @@
+/*
+@charset "utf-8"; 
+*/
+
+
+songlist{
+	background-image: url(zachrie-friesen-H_wGRt781Vk-unsplash.jpg);
+	backface-visibility: 10%;
+	background-size: 1500px ;
+	padding: 50px;
+	text-align: left;
+
+}
+
+
+bandname {
+	width: 100%;
+	color: beige;
+	font-size: 50pt;
+	font-weight: bold;
+	font-family: Apple Chancery;
+}
+
+
+artist{
+	display: block;
+	color: black;
+	font-size: 20pt;
+	width: 600px;
+	background-color:beige;
+	padding: 5px;
+}
+
+
+musicgenre, releaseyear {
+	display: block;
+	color: black;
+	font-size: 12pt;
+	background-color: beige;
+	width: 600px;
+	padding: 5px;
+}
+
+
+
+
+/* color pallete notes
+
+
+*/
